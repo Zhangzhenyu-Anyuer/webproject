@@ -1,0 +1,12 @@
+# 验证码ID
+PC_GEETEST_ID = "1ea3ed8b35299a931b6a3883ec4a05be"
+# 验证码Key
+PC_GEETEST_KEY = "9a13879615c1ae2500e356417cd5bcf9"
+
+# 短信验证的key：781b6094e9bc07a006d94d2512596aa3
+API_KEY = '781b6094e9bc07a006d94d2512596aa3'
+# 短信存在的有效时间
+MESSAGE_EXPIRE_TIME = 60
+
+# 课程图片的路径
+COURSE_IMG_SRC = 'http://api.edu.net:8000'
